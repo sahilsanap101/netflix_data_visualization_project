@@ -76,13 +76,31 @@ All generated plots are saved as .png files in the project directory and also di
 📸 Sample Output
 
 Movies vs TV Shows	
-<img width="800" height="600" alt="movie_vs_tv_shows" src="https://github.com/user-attachments/assets/95074d78-1cd3-42a7-9354-2a9d8f020aa3" />
+
+
+<img width="1200" height="500" alt="movies_tv_shows_comparison" src="https://github.com/user-attachments/assets/29701e3c-57d7-4621-bb1b-5fe6aede27ab" />
+
+
 
 Rating Pie Chart	
+
+
+
 <img width="800" height="600" alt="content_rating" src="https://github.com/user-attachments/assets/1ebb1443-8a50-4f68-b660-bfcc6fd33533" />
 
+
+
+
 Release year scatter 
+
+
+
 <img width="1000" height="600" alt="release_year_scatter" src="https://github.com/user-attachments/assets/ea5f6703-5dd4-4349-8993-9b9f37d0ae5f" />
 
 Movie Duration
-<img width="1200" height="500" alt="movies_tv_shows_comparison" src="https://github.com/user-attachments/assets/29701e3c-57d7-4621-bb1b-5fe6aede27ab" />
+
+
+
+
+
+<img width="800" height="600" alt="movie_vs_tv_shows" src="https://github.com/user-attachments/assets/95074d78-1cd3-42a7-9354-2a9d8f020aa3" />
